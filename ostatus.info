@@ -1,3 +1,4 @@
 name = "OStatus"
 description = "OStatus lets people on different social networks follow each other."
-core = 6.x
+core = 7.x
+
